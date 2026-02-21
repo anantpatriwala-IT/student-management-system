@@ -22,7 +22,9 @@ https://anant-sms.infinityfreeapp.com/
 3. Update config/db.php
 4. Run locally using XAMPP
 
-📂 Project Structure
+## 📂 Project Structure
+
+```
 student-management-system/
 │
 ├── index.php
@@ -33,14 +35,15 @@ student-management-system/
 ├── logout.php
 │
 ├── config/
-│ └── db.php
+│   └── db.php
 │
 ├── api/
-│ └── fetch_students.php
+│   └── fetch_students.php
 │
 ├── assets/
-│ └── css/
-│ └── style.css
+│   └── css/
+│       └── style.css
+```
 ---
 
 Developed by Anant Patriwala🚀
