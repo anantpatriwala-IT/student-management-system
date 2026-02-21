@@ -24,4 +24,4 @@ https://anant-sms.infinityfreeapp.com/
 
 ---
 
-Developed by Anant 🚀
+Developed by Anant Patriwala🚀
